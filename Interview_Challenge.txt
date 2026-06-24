@@ -1,0 +1,36 @@
+## Challenge Summary
+Troubleshoot an unreachable Linux web server (Apache, port 80) at `192.168.1.100` 
+experiencing 'ERR_CONNECTION_TIMED_OUT'. Outline diagnostic steps, commands, and 
+potential solutions.
+
+---
+
+# Linux Web Server Troubleshooting: `192.168.1.100`
+
+## 1. Initial Checks (from a client machine or gateway)
+*   **Action/Command:**
+*   **Expected Outcome/Why:**
+
+## 2. Server-Side Checks (assuming SSH access is possible)
+### a. Network Connectivity & Configuration
+*   **Action/Command:**
+*   **Potential Issues:**
+
+### b. Firewall Status
+*   **Action/Command:**
+*   **Potential Issues:**
+
+### c. Web Server Service Status (Apache)
+*   **Action/Command:**
+*   **Potential Issues:**
+
+### d. Service Listening Ports
+*   **Action/Command:**
+*   **Potential Issues:**
+
+### e. Log Files
+*   **Action/Command:**
+*   **Potential Issues:**
+
+## 3. Propose Solution(s)
+*   **Based on potential findings, what are the most likely root causes and their solutions?**
